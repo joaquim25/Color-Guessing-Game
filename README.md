@@ -56,4 +56,4 @@ git clone https://github.com/your-username/Color-Guessing-Game.git
 Joaquim Luzia
 
 Acknowledgments
-This project was developed as a project for the Eddisrupt Bootcamp. JavaScript, HTML, and CSS were used to build this project.
+This game was developed as a project for the Eddisrupt Bootcamp. JavaScript, HTML, and CSS were used to build this project.
